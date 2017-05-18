@@ -2,6 +2,8 @@
 
 **Basemap 1**
 
+http://cdn.rawgit.com/johnsoRiB/Basemap-Design/40cd4744/Basemap1/index.html
+
 The first basemap is stylized to look rustic with the canvas and yellowish background. This map uses the anders font stylization to make it seems more thematic. The yellow color is meant to take the focus away from natural areas and show the complex urban and transportation networks. It was derived from the original light map style.
 
 **Basemap 2**
