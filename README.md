@@ -8,4 +8,6 @@ The first basemap is stylized to look rustic with the canvas and yellowish backg
 
 **Basemap 2**
 
+http://cdn.rawgit.com/johnsoRiB/Basemap-Design/ce5bf982/Basemap2/index.html
+
 The second base map is stylized from the original dark map style. This map uses the Market Deco font style. The dark backgound is used to drak attention away from uban areas and highlight areas of vegetation, recreation, and other natural features using shares of green, blue, and yellow.
